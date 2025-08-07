@@ -1,0 +1,12 @@
+class A
+{
+  int a=100;
+
+int j=200;
+<<<<<<< HEAD
+int k=500;
+=======
+int l=1000;
+>>>>>>> ad4713cdac62d1c55436a0cd6e2bf9b7a6b89585
+
+}
